@@ -1,0 +1,6 @@
+npm run api-service
+npm install cors
+
+curl -X GET http://localhost:4000/api/karyawan -H "Content-Type: application/json" | jq
+
+menggunakan express dan database menggunakan mongodb

@@ -1,0 +1,4 @@
+komponen 
+
+npm install axios
+npm install chartjs-plugin-datalabels
