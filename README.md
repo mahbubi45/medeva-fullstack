@@ -20,7 +20,7 @@ Aplikasi manajemen data karyawan dan tenaga kesehatan untuk Klinik.
 ## 🛠️ Environment Variables (.env)
 
 - **Backend**: `PORT`, `MONGO_URI`, `JWT_SECRET`
-- **Frontend**: `VITE_API_URL` (Arahkan ke http://localhost:5173/login)
+- **Frontend**: `VITE_API_URL` (Arahkan ke http://localhost:4000/api/v1) || Dashboard (http://localhost:5173/login)
 
 ## 📑 Endpoints Utama
 
