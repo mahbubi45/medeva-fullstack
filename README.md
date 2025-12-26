@@ -13,14 +13,14 @@ Aplikasi manajemen data karyawan dan tenaga kesehatan untuk Klinik.
 
 ### 2. Frontend (React)
 
-- Masuk ke folder frontend: `cd frontend`
+- Masuk ke folder frontend: `cd frontend/medeva`
 - Install dependensi: `npm install`
 - Jalankan aplikasi: `npm run dev`
 
 ## 🛠️ Environment Variables (.env)
 
 - **Backend**: `PORT`, `MONGO_URI`, `JWT_SECRET`
-- **Frontend**: `VITE_API_URL` (Arahkan ke http://localhost:4000/api/v1)
+- **Frontend**: `VITE_API_URL` (Arahkan ke http://localhost:5173/login)
 
 ## 📑 Endpoints Utama
 
